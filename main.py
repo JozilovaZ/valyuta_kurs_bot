@@ -1,7 +1,7 @@
 import logging
 from tkinter.constants import CURRENT
 
-import requests
+#import requests
 from aiogram import Bot, Dispatcher,types,executor
 
 API_TOKEN="7607664066:AAGjR9vQKNc4WOmqhexttCd9qVmCg8qGrx0"
